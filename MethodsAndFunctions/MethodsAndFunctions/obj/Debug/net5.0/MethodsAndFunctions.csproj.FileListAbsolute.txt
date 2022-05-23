@@ -1,0 +1,16 @@
+E:\VisualS repos\MethodsAndFunctions\MethodsAndFunctions\bin\Debug\net5.0\MethodsAndFunctions.exe
+E:\VisualS repos\MethodsAndFunctions\MethodsAndFunctions\bin\Debug\net5.0\MethodsAndFunctions.deps.json
+E:\VisualS repos\MethodsAndFunctions\MethodsAndFunctions\bin\Debug\net5.0\MethodsAndFunctions.runtimeconfig.json
+E:\VisualS repos\MethodsAndFunctions\MethodsAndFunctions\bin\Debug\net5.0\MethodsAndFunctions.runtimeconfig.dev.json
+E:\VisualS repos\MethodsAndFunctions\MethodsAndFunctions\bin\Debug\net5.0\MethodsAndFunctions.dll
+E:\VisualS repos\MethodsAndFunctions\MethodsAndFunctions\bin\Debug\net5.0\MethodsAndFunctions.pdb
+E:\VisualS repos\MethodsAndFunctions\MethodsAndFunctions\obj\Debug\net5.0\MethodsAndFunctions.csproj.AssemblyReference.cache
+E:\VisualS repos\MethodsAndFunctions\MethodsAndFunctions\obj\Debug\net5.0\MethodsAndFunctions.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualS repos\MethodsAndFunctions\MethodsAndFunctions\obj\Debug\net5.0\MethodsAndFunctions.AssemblyInfoInputs.cache
+E:\VisualS repos\MethodsAndFunctions\MethodsAndFunctions\obj\Debug\net5.0\MethodsAndFunctions.AssemblyInfo.cs
+E:\VisualS repos\MethodsAndFunctions\MethodsAndFunctions\obj\Debug\net5.0\MethodsAndFunctions.csproj.CoreCompileInputs.cache
+E:\VisualS repos\MethodsAndFunctions\MethodsAndFunctions\obj\Debug\net5.0\MethodsAndFunctions.dll
+E:\VisualS repos\MethodsAndFunctions\MethodsAndFunctions\obj\Debug\net5.0\refint\MethodsAndFunctions.dll
+E:\VisualS repos\MethodsAndFunctions\MethodsAndFunctions\obj\Debug\net5.0\MethodsAndFunctions.pdb
+E:\VisualS repos\MethodsAndFunctions\MethodsAndFunctions\obj\Debug\net5.0\MethodsAndFunctions.genruntimeconfig.cache
+E:\VisualS repos\MethodsAndFunctions\MethodsAndFunctions\obj\Debug\net5.0\ref\MethodsAndFunctions.dll

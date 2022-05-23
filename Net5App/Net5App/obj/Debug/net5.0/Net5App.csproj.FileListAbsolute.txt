@@ -1,0 +1,16 @@
+E:\VisualS repos\Net5App\Net5App\bin\Debug\net5.0\Net5App.exe
+E:\VisualS repos\Net5App\Net5App\bin\Debug\net5.0\Net5App.deps.json
+E:\VisualS repos\Net5App\Net5App\bin\Debug\net5.0\Net5App.runtimeconfig.json
+E:\VisualS repos\Net5App\Net5App\bin\Debug\net5.0\Net5App.runtimeconfig.dev.json
+E:\VisualS repos\Net5App\Net5App\bin\Debug\net5.0\Net5App.dll
+E:\VisualS repos\Net5App\Net5App\bin\Debug\net5.0\Net5App.pdb
+E:\VisualS repos\Net5App\Net5App\obj\Debug\net5.0\Net5App.csproj.AssemblyReference.cache
+E:\VisualS repos\Net5App\Net5App\obj\Debug\net5.0\Net5App.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualS repos\Net5App\Net5App\obj\Debug\net5.0\Net5App.AssemblyInfoInputs.cache
+E:\VisualS repos\Net5App\Net5App\obj\Debug\net5.0\Net5App.AssemblyInfo.cs
+E:\VisualS repos\Net5App\Net5App\obj\Debug\net5.0\Net5App.csproj.CoreCompileInputs.cache
+E:\VisualS repos\Net5App\Net5App\obj\Debug\net5.0\Net5App.dll
+E:\VisualS repos\Net5App\Net5App\obj\Debug\net5.0\refint\Net5App.dll
+E:\VisualS repos\Net5App\Net5App\obj\Debug\net5.0\Net5App.pdb
+E:\VisualS repos\Net5App\Net5App\obj\Debug\net5.0\Net5App.genruntimeconfig.cache
+E:\VisualS repos\Net5App\Net5App\obj\Debug\net5.0\ref\Net5App.dll

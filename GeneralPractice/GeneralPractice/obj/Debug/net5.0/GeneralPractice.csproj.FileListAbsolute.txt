@@ -1,0 +1,16 @@
+E:\VisualS repos\GeneralPractice\GeneralPractice\bin\Debug\net5.0\GeneralPractice.exe
+E:\VisualS repos\GeneralPractice\GeneralPractice\bin\Debug\net5.0\GeneralPractice.deps.json
+E:\VisualS repos\GeneralPractice\GeneralPractice\bin\Debug\net5.0\GeneralPractice.runtimeconfig.json
+E:\VisualS repos\GeneralPractice\GeneralPractice\bin\Debug\net5.0\GeneralPractice.runtimeconfig.dev.json
+E:\VisualS repos\GeneralPractice\GeneralPractice\bin\Debug\net5.0\GeneralPractice.dll
+E:\VisualS repos\GeneralPractice\GeneralPractice\bin\Debug\net5.0\GeneralPractice.pdb
+E:\VisualS repos\GeneralPractice\GeneralPractice\obj\Debug\net5.0\GeneralPractice.csproj.AssemblyReference.cache
+E:\VisualS repos\GeneralPractice\GeneralPractice\obj\Debug\net5.0\GeneralPractice.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualS repos\GeneralPractice\GeneralPractice\obj\Debug\net5.0\GeneralPractice.AssemblyInfoInputs.cache
+E:\VisualS repos\GeneralPractice\GeneralPractice\obj\Debug\net5.0\GeneralPractice.AssemblyInfo.cs
+E:\VisualS repos\GeneralPractice\GeneralPractice\obj\Debug\net5.0\GeneralPractice.csproj.CoreCompileInputs.cache
+E:\VisualS repos\GeneralPractice\GeneralPractice\obj\Debug\net5.0\GeneralPractice.dll
+E:\VisualS repos\GeneralPractice\GeneralPractice\obj\Debug\net5.0\refint\GeneralPractice.dll
+E:\VisualS repos\GeneralPractice\GeneralPractice\obj\Debug\net5.0\GeneralPractice.pdb
+E:\VisualS repos\GeneralPractice\GeneralPractice\obj\Debug\net5.0\GeneralPractice.genruntimeconfig.cache
+E:\VisualS repos\GeneralPractice\GeneralPractice\obj\Debug\net5.0\ref\GeneralPractice.dll
