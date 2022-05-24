@@ -1,0 +1,16 @@
+E:\VisualS repos\Threading\Threading\bin\Debug\net5.0\Threading.exe
+E:\VisualS repos\Threading\Threading\bin\Debug\net5.0\Threading.deps.json
+E:\VisualS repos\Threading\Threading\bin\Debug\net5.0\Threading.runtimeconfig.json
+E:\VisualS repos\Threading\Threading\bin\Debug\net5.0\Threading.runtimeconfig.dev.json
+E:\VisualS repos\Threading\Threading\bin\Debug\net5.0\Threading.dll
+E:\VisualS repos\Threading\Threading\bin\Debug\net5.0\Threading.pdb
+E:\VisualS repos\Threading\Threading\obj\Debug\net5.0\Threading.csproj.AssemblyReference.cache
+E:\VisualS repos\Threading\Threading\obj\Debug\net5.0\Threading.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualS repos\Threading\Threading\obj\Debug\net5.0\Threading.AssemblyInfoInputs.cache
+E:\VisualS repos\Threading\Threading\obj\Debug\net5.0\Threading.AssemblyInfo.cs
+E:\VisualS repos\Threading\Threading\obj\Debug\net5.0\Threading.csproj.CoreCompileInputs.cache
+E:\VisualS repos\Threading\Threading\obj\Debug\net5.0\Threading.dll
+E:\VisualS repos\Threading\Threading\obj\Debug\net5.0\refint\Threading.dll
+E:\VisualS repos\Threading\Threading\obj\Debug\net5.0\Threading.pdb
+E:\VisualS repos\Threading\Threading\obj\Debug\net5.0\Threading.genruntimeconfig.cache
+E:\VisualS repos\Threading\Threading\obj\Debug\net5.0\ref\Threading.dll

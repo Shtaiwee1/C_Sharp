@@ -1,0 +1,16 @@
+E:\VisualS repos\Delegates\Delegates\bin\Debug\net5.0\Delegates.exe
+E:\VisualS repos\Delegates\Delegates\bin\Debug\net5.0\Delegates.deps.json
+E:\VisualS repos\Delegates\Delegates\bin\Debug\net5.0\Delegates.runtimeconfig.json
+E:\VisualS repos\Delegates\Delegates\bin\Debug\net5.0\Delegates.runtimeconfig.dev.json
+E:\VisualS repos\Delegates\Delegates\bin\Debug\net5.0\Delegates.dll
+E:\VisualS repos\Delegates\Delegates\bin\Debug\net5.0\Delegates.pdb
+E:\VisualS repos\Delegates\Delegates\obj\Debug\net5.0\Delegates.csproj.AssemblyReference.cache
+E:\VisualS repos\Delegates\Delegates\obj\Debug\net5.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualS repos\Delegates\Delegates\obj\Debug\net5.0\Delegates.AssemblyInfoInputs.cache
+E:\VisualS repos\Delegates\Delegates\obj\Debug\net5.0\Delegates.AssemblyInfo.cs
+E:\VisualS repos\Delegates\Delegates\obj\Debug\net5.0\Delegates.csproj.CoreCompileInputs.cache
+E:\VisualS repos\Delegates\Delegates\obj\Debug\net5.0\Delegates.dll
+E:\VisualS repos\Delegates\Delegates\obj\Debug\net5.0\refint\Delegates.dll
+E:\VisualS repos\Delegates\Delegates\obj\Debug\net5.0\Delegates.pdb
+E:\VisualS repos\Delegates\Delegates\obj\Debug\net5.0\Delegates.genruntimeconfig.cache
+E:\VisualS repos\Delegates\Delegates\obj\Debug\net5.0\ref\Delegates.dll
